@@ -1,7 +1,8 @@
 # ssc-scrape
 requirements:
-pip install requests
-pip install beautifulsoup4
+```pip install requests```
+
+```pip install beautifulsoup4```
 
 If trying to extract ubc_ids:
-pip install selenium
+```pip install selenium```
