@@ -3,9 +3,11 @@ requirements:
 ```pip install requests```
 ```pip install lxml```
 ```pip install beautifulsoup4```
+```pip install pandas```
 
 If trying to extract ubc_ids:
 ```pip install selenium```
+You may want to change the code to use `webdriver-manager` instead so you don't have to add a chromedriver executable.
 
 # How this works
 I wrote this code 5 months ago, and didn't expect it to be used again since soon the SSC will be moved to Workday. I will try to document as best as possible. These scripts need to be run using UBC wifi or you get blocked.
